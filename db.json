@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "React",
+      "body": "React is a JavaScript library for building user interfaces that is declarative, efficient, and flexible."
+    },
+    {
+      "id": 2,
+      "title": "Next",
+      "body": "Next is a React framework for building server-rendered and static web applications."
+    },
+    {
+      "id": 3,
+      "title": "Remix",
+      "body": "Remix is a full-stack framework for building web applications that combines the best of React, server-side rendering, and static site generation."
+    },
+    {
+      "title": "Laravel",
+      "body": "a php framework",
+      "id": 4
+    },
+    {
+      "title": "Nest js",
+      "body": "based on typescript",
+      "id": 5
+    }
+  ]
+}
